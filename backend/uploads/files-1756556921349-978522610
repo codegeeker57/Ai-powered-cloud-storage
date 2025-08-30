@@ -1,0 +1,48 @@
+# Welcome to CodeTribe! 🚀
+
+## About CodeTribe
+CodeTribe is a **real-time collaborative code editor** that enables seamless team collaboration across multiple programming languages.
+
+### Features ✨
+- 🔄 **Real-time collaboration** with synchronized editing
+- 🌐 **16 programming languages** supported
+- 👁️ **Live preview** for web technologies
+- 💬 **Integrated team chat**
+- ⚡ **Code execution** with instant results
+- 🎨 **Beautiful Monaco Editor** with syntax highlighting
+
+### Supported Languages
+| Category | Languages |
+|----------|-----------|
+| Web | HTML, CSS, JavaScript, TypeScript |
+| Backend | Python, Java, C++, C, C#, Go, Rust |
+| Mobile | Java, C# |
+| Scripting | Python, JavaScript |
+| Data | JSON, SQL |
+| Documentation | Markdown |
+
+### Getting Started
+1. **Create a session** or **join an existing one**
+2. **Select your programming language** from the dropdown
+3. **Start coding** with real-time collaboration
+4. **Chat with your team** using the integrated messaging
+5. **Execute your code** and see instant results
+
+### Code Example
+```javascript
+function welcomeToCodeTribe(username) {
+  return `Welcome ${username}! Ready to code together? 🎉`;
+}
+
+console.log(welcomeToCodeTribe("Developer"));
+```
+
+### Tips for Collaboration 💡
+- Use **descriptive variable names** for better code readability
+- **Communicate** with your team through the chat panel  
+- **Test your code** frequently using the execution feature
+- **Save your work** regularly (auto-save enabled)
+
+---
+
+Happy coding with CodeTribe! 🎯
